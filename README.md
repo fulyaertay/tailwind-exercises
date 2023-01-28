@@ -1,2 +1,2 @@
 # tailwind-exercises
-This is my personal exercises which include basics and responsive nav using JS and Tailwind CSS
+This is my personal exercises which include Tailwind CSS basics and responsive nav using JS.
